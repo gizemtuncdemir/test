@@ -1,1 +1,3 @@
 ekstrabolumler stash öğreniyırum
+
+feat iççerisinde yazılan alan satır

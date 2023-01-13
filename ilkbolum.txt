@@ -12,3 +12,4 @@ git
 farklı branchte değişiklik kaydetmeyi öğreniyoruz
 git hub son dersler çalılma notlarım 
 
+gizem şen açıkalma satırı eklendi

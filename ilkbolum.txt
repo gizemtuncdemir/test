@@ -7,6 +7,8 @@ dkfndj
 
 
 git push ile githuba veri gönderiyoruz
-
+git 
 
 farklı branchte değişiklik kaydetmeyi öğreniyoruz
+git hub son dersler çalılma notlarım 
+
